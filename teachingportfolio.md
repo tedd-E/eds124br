@@ -16,3 +16,6 @@
 ## Module 3
 ### Nested Repeat Loops
 [![Nested Repeat Loops](https://img.youtube.com/vi/XRxk_vTA0p8/0.jpg)](https://www.youtube.com/watch?v=XRxk_vTA0p8)
+
+## Monkey Game
+[![Monkey Game](https://img.youtube.com/vi/huPrSdBYH_I/0.jpg)](https://www.youtube.com/watch?v=huPrSdBYH_I)
