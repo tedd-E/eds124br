@@ -23,7 +23,7 @@
 
 
 ## Module 4
-### Variables
+### Sequences with Variables
 [![Variables](https://i9.ytimg.com/vi_webp/J8zN96t1uQc/mq1.webp?sqp=CJCNsaIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDogTSh_MA8=&rs=AOn4CLBp2h0Iuy3fr5V2wbWXQPPBTIzUyw)](https://www.youtube.com/watch?v=J8zN96t1uQc)
 
 ### Amon draws a square
