@@ -24,7 +24,11 @@
 
 ## Module 4
 ### Sequences with Variables
-[![Variables](https://i9.ytimg.com/vi_webp/J8zN96t1uQc/mq1.webp?sqp=CJCNsaIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDogTSh_MA8=&rs=AOn4CLBp2h0Iuy3fr5V2wbWXQPPBTIzUyw)](https://www.youtube.com/watch?v=J8zN96t1uQc)
+[![Variables](https://img.youtube.com/vi/J8zN96t1uQc/0.jpg)](https://www.youtube.com/watch?v=J8zN96t1uQc)
 
 ### Amon draws a square
-[![Monkey Game](https://img.youtube.com/vi/CYn-f0k1gOs/0.jpg)](https://www.youtube.com/watch?v=CYn-f0k1gOs)
+[![Amon draws a square](https://img.youtube.com/vi/CYn-f0k1gOs/0.jpg)](https://www.youtube.com/watch?v=CYn-f0k1gOs)
+
+
+## Module 5
+[![Conditional Repeats](https://img.youtube.com/vi/duNFn6s-EsU/0.jpg)](https://www.youtube.com/watch?v=duNFn6s-EsU)
