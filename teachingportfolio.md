@@ -33,3 +33,8 @@
 ## Module 5
 ### Conditional repeats
 [![Conditional Repeats](https://img.youtube.com/vi/duNFn6s-EsU/0.jpg)](https://www.youtube.com/watch?v=duNFn6s-EsU)
+
+
+## Module 6
+### If-else statements
+[![If-else statements](https://img.youtube.com/vi/ZHaCe-cF7jI/0.jpg)](https://www.youtube.com/watch?v=ZHaCe-cF7jI)
