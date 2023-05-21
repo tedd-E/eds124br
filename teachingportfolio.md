@@ -38,3 +38,8 @@
 ## Module 6
 ### If-else statements
 [![If-else statements](https://img.youtube.com/vi/ZHaCe-cF7jI/0.jpg)](https://www.youtube.com/watch?v=ZHaCe-cF7jI)
+
+
+## Module 7
+### Nested if-else statements
+[![Nested if-else statements](https://img.youtube.com/vi/n8fJOjgreTA/0.jpg)](https://www.youtube.com/watch?v=n8fJOjgreTA)
