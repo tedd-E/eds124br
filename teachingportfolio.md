@@ -43,3 +43,9 @@
 ## Module 7
 ### Nested if-else statements
 [![Nested if-else statements](https://img.youtube.com/vi/n8fJOjgreTA/0.jpg)](https://www.youtube.com/watch?v=n8fJOjgreTA)
+
+
+## Module 8
+### Compound conditionals
+[![ Compound conditionals](https://img.youtube.com/vi/sBpcXcb-2Ds/0.jpg)](https://www.youtube.com/watch?v=sBpcXcb-2Ds)
+
