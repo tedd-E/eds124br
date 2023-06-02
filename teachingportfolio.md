@@ -49,3 +49,7 @@
 ### Compound conditionals
 [![ Compound conditionals](https://img.youtube.com/vi/sBpcXcb-2Ds/0.jpg)](https://www.youtube.com/watch?v=sBpcXcb-2Ds)
 
+
+## Module 9
+### Abstraction
+[![ Abstraction](https://img.youtube.com/vi/VKqpp8fleTw/0.jpg)](https://www.youtube.com/watch?v=VKqpp8fleTw)
