@@ -53,3 +53,8 @@
 ## Module 9
 ### Abstraction
 [![ Abstraction](https://img.youtube.com/vi/VKqpp8fleTw/0.jpg)](https://www.youtube.com/watch?v=VKqpp8fleTw)
+
+
+## Module 10
+### Lists
+[![ Lists](https://img.youtube.com/vi/QjpT_1Lq1KQ/0.jpg)](https://www.youtube.com/watch?v=QjpT_1Lq1KQ)
